@@ -44,7 +44,7 @@ https://navid-mzn.github.io/Forkify/
 
 ## Screenshot
 
-![Forkify Screenshot](screenshot.png)
+![Forkify Screenshot](Screenshot.png)
 
 ## Course
 
