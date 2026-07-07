@@ -40,6 +40,7 @@ The project demonstrates modern JavaScript development using modules, asynchrono
 ## Live Demo
 
 Try the game here:
+https://navid-mzn.github.io/Forkify/
 
 ## Screenshot
 
