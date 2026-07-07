@@ -37,11 +37,6 @@ The project demonstrates modern JavaScript development using modules, asynchrono
 - Error handling
 - Application state management
 
-## Live Demo
-
-Try the game here:
-https://navid-mzn.github.io/Forkify/
-
 ## Screenshot
 
 ![Forkify Screenshot](Screenshot.png)
